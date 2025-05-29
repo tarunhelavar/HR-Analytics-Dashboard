@@ -52,7 +52,7 @@ Some highlights from the dashboard:
 Special thanks to the contributors of public HR datasets and Tableau Community resources.
 
 ---
-![Dashboard Preview](HR_Analytics_Dashboard.png)
+
 
 
  
