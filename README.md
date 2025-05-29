@@ -2,7 +2,7 @@
 
 This project showcases a Human Resources (HR) analytics dashboard built using **Tableau Public**. The dashboard is designed to help HR departments analyze key workforce metrics and make data-driven decisions.
 
-## 📊 Dashboard Overview
+## 📊 Dashboard Overview 
 
 The Tableau dashboard provides visual insights into:
 - 🔹 **Attrition Rate** (overall and by gender, age, and department)
